@@ -7,8 +7,6 @@
   align-items: center;
   position: relative;
   display: block;
-  height: auto;
-
 }
 @media screen and (max-width: 1024px){
   .cover {
