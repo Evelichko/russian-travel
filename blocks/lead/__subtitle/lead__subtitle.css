@@ -8,20 +8,23 @@
   color: white;
   max-width: 640px;
 }
-@media screen and (max-width: 1024px){
+
+@media screen and (max-width: 1024px) {
   .lead__subtitle {
     margin-bottom: 56px;
   }
 }
-@media screen and (max-width: 768px){
+
+@media screen and (max-width: 768px) {
   .lead__subtitle {
-   font-size: calc(16px + (30 - 16) * (100vw - 320px) / (768 - 320));
-   line-height: calc(20px + (36 - 20) * (100vw - 320px) / (768 - 320));
-   max-width: calc(288px + (640 - 288) * (100vw - 320px) / (768 - 320));
-   margin-bottom: 56px;
- }
+    font-size: calc(16px + (30 - 16) * (100vw - 320px) / (768 - 320));
+    line-height: calc(20px + (36 - 20) * (100vw - 320px) / (768 - 320));
+    max-width: calc(288px + (640 - 288) * (100vw - 320px) / (768 - 320));
+    margin-bottom: 56px;
+  }
 }
-@media screen and (max-width: 320px){
+
+@media screen and (max-width: 320px) {
   .lead__subtitle {
     font-size: 16px;
     line-height: 20px;
