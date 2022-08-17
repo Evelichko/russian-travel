@@ -5,3 +5,7 @@
   color: white;
   text-align: left;
 }
+
+.place__link:hover {
+  opacity: 0.8;
+}

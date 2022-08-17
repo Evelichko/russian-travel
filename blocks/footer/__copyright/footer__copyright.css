@@ -9,11 +9,6 @@
   width: fit-content;
 }
 
-@media screen and (max-width: 768px) {
-  .footer__copyright {
-    margin: 0 24px 0 0;
-  }
-}
 
 @media screen and (max-width: 750px) {
   .footer__copyright {
