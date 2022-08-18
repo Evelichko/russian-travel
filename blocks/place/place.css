@@ -28,15 +28,6 @@
     grid-template-rows: repeat(auto-fit, auto);
     margin-bottom: 50px;
     max-width: 100%;
-
     margin: 0 auto 48px;
-  }
-}
-
-@media screen and (max-width: 320px) {
-  .place {
-    grid-template-columns: repeat(1, auto);
-    grid-template-rows: repeat(auto-fit, auto);
-    margin-bottom: 50px;
   }
 }

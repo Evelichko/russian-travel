@@ -20,9 +20,5 @@
 @media screen and (max-width: 320px) {
   .place__website {
     margin: 0 auto 32px;
-    max-width: 288px;
-    width: 100%;
-    grid-row: 2/3;
-    grid-column: 1/2;
   }
 }

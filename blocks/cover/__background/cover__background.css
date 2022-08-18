@@ -10,6 +10,7 @@
   flex-direction: column;
   justify-content: center;
   position: relative;
+  background-position: center;
 }
 
 .cover__background::before {
@@ -32,7 +33,6 @@
   .cover__background {
     max-width: 1024px;
     min-height: 640px;
-
   }
 }
 
@@ -40,7 +40,6 @@
   .cover__background {
     max-width: 768px;
     min-height: 480px;
-
   }
 }
 
@@ -48,6 +47,5 @@
   .cover__background {
     max-width: 320px;
     min-height: 200px;
-
   }
 }
