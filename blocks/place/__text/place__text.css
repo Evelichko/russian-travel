@@ -4,14 +4,20 @@
   gap: 26px;
 }
 
-@media screen and (max-width: 680px) {
+@media screen and (max-width: 940px) {
   .place__text {
     margin-top: 32px;
   }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 768px) {
   .place__text {
-    gap: 26px;
+    margin-top: 0px;
+  }
+}
+
+@media screen and (max-width: 760px) {
+  .place__text {
+    margin-top: 32px;
   }
 }

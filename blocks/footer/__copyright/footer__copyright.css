@@ -6,19 +6,7 @@
   color: white;
   margin: 0;
   padding: 0;
-  max-width: 186px;
+  max-width: 189px;
   width: 100%;
   /* width: fit-content; */
 }
-
-/* @media screen and (max-width: 750px) {
-  .footer__copyright {
-    margin: 0;
-  }
-} */
-
-/* @media screen and (max-width: 320px) {
-  .footer__copyright {
-    margin: 0;
-  }
-} */
